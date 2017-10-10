@@ -16,11 +16,13 @@ Original Image
 ![Alt text](https://github.com/Souvikray/Image-Filters/blob/master/scenery.jpg?raw=true "Optional Title")
 
 Increment in brightness
-
 ![Alt text](https://github.com/Souvikray/Image-Filters/blob/master/modified%201.png?raw=true "Optional Title")
 
 GrayScale Image
 ![Alt text](https://github.com/Souvikray/Image-Filters/blob/master/modified%202.png?raw=true "Optional Title")
+
+Application Screenshot
+![Alt text](https://github.com/Souvikray/Image-Filters/blob/master/modified%203.png?raw=true "Optional Title")
 
 
 
